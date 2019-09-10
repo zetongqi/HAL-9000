@@ -1,6 +1,5 @@
 import os
 import urllib.request
-from tqdm import tqdm
 
 MAG_DOWNLOAD_URL = (
     "http://magnitude.plasticity.ai/glove/medium/glove.840B.300d.magnitude"

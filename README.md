@@ -1,4 +1,4 @@
-# HAL-9000: Conversational Agent
+# HAL-9000
 ## Hello Dave
 
 ![](HAL.png)
